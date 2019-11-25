@@ -1,1 +1,1 @@
-web: python .theia/app.py
+web: python app.py
